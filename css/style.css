@@ -14,6 +14,7 @@
 7.0 - News
 8.0 - Contact
 9.0 - Footer
+10.0 -Media queries
 
 */
   
@@ -796,6 +797,10 @@ footer #footer-container-right p{
         padding   : 1.5rem;
         background: #fff;
         text-align: center;
+    }
+
+    .home section{
+        background-color: #eee;
     }
 
     .home .content h3{
